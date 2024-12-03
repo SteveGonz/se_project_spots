@@ -22,7 +22,7 @@ This project is a image sharing site .this project is made so all the elements a
 ## Deployment
 
 This webpage was deployed to GitHub Pages
-https://github.com/SteveGonz/se_project_spots
+https://stevegonz.github.io/se_project_spots/
 
 **Video Submission**
-https://www.loom.com/share/a347ea71c2d04156abc60c32d9659911?sid=6e084adf-22d1-4f20-8ab9-66e685160476
+https://www.loom.com/share/71e44cb0b331431bb72391b48c46df8e?sid=da894e41-454c-49f4-bd48-8f3817654201
